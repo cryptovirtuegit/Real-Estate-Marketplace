@@ -1,0 +1,10 @@
+# Depedencies
+node_modules
+app/node_modules
+
+# Testing
+coverage
+
+# Production
+build
+build_webpack

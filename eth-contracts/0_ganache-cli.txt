@@ -1,0 +1,47 @@
+eth-contracts> ganache-cli -m "frog turtle dice list winter sausage moral fortune tunnel joy open person"
+Ganache CLI v6.9.0 (ganache-core: 2.10.1)
+
+Available Accounts
+==================
+(0) 0xd57A4B50721bf34DF528bB8dAA72016D30d27cAF (100 ETH)
+(1) 0xE34eE84cd9cf81fD279604280546CD3e1bA1121C (100 ETH)
+(2) 0x17dC8d61a9A6C8036c553039747fDdEe28B6469a (100 ETH)
+(3) 0xf2842f994B4d7ecA655412B943c322b17d763fD8 (100 ETH)
+(4) 0xaDE0Cc80a16f42d7FFa3d8b9753FFCd71A432B5f (100 ETH)
+(5) 0x981da554b99F81776E34373e6A25Eaa89D38E101 (100 ETH)
+(6) 0x2305661586560834BB466241435de31b5Ae428b8 (100 ETH)
+(7) 0x5b4900E8967beda56D952374410D731a72C46785 (100 ETH)
+(8) 0x7eD51DCE472e14087a57e25b8a1e52Cf6926302c (100 ETH)
+(9) 0x46a16aB39CB9147d10acFD939E69E337f494f101 (100 ETH)
+
+Private Keys
+==================
+(0) 0x8a624b46de60f11f234459f7c8d7c95fecdff230354fb0ea8f30f94cdc973c04
+(1) 0xf7b92e4c1ebc352718fe5bf200d18af352997aeda586f3cd5edcc6bd38a77fea
+(2) 0xfc4201d065490c570bc5d7c99bd88c0b5b00461b31e0f4feea37458e40a5525b
+(3) 0x6417de1b6adae76260a31100752a646a8a5ef65b0aed9bf0f0dcdea93fe3985d
+(4) 0xfca9f35759d86ed02f8f44d66060d6c8959e37be11f604fd5d3c9c73dffa8595
+(5) 0xc2a8321f0385cff378953c913c3bff568cfc3f532634137dde898291523d3400
+(6) 0x9ae01da67c39b8eb42799acea7c207fdbb68c589e78af40d32b3294a013a2d4b
+(7) 0x5b7933e244393821fa00146d1589e761aba4d8acfe71f081004c531d522b572a
+(8) 0xcae3503fa06b512ae4e4b7b727c241883b81227029787e2fb1d974efe0c39a9e
+(9) 0x94cbf58d041f58a9b9a99ae5c706143befa5197a3e627aed09fa500591d4aaf2
+
+HD Wallet
+==================
+Mnemonic:      frog turtle dice list winter sausage moral fortune tunnel joy open person
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Call Gas Limit
+==================
+9007199254740991
+
+Listening on 127.0.0.1:8545

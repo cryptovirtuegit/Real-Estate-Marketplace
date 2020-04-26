@@ -1,0 +1,1 @@
+ganache-cli -m "frog turtle dice list winter sausage moral fortune tunnel joy open person"
